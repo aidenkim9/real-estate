@@ -4,3 +4,8 @@
 * {
   font-family: Outfit;
 }
+
+img,
+button {
+  cursor: pointer;
+}
