@@ -16,7 +16,7 @@ const Projects = () => {
 
     updateCardsToShow();
     window.addEventListener("resize", updateCardsToShow);
-    return window.removeEventListener("resize", updateCardsToShow);
+    return () => window.removeEventListener("resize", updateCardsToShow);
   }, []);
 
   const nextProject = () => {
