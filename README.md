@@ -24,3 +24,8 @@ src/
 ## 🖼️ 스크린샷
 
 ![Header](./screenshot.png)
+![About](./screenshot2.png)
+![Projects](./screenshot3.png)
+![Testimonials](./screenshot4.png)
+![Contact](./screenshot5.png)
+![Footer](./screenshot6.png)
